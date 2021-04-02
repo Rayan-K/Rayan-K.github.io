@@ -1,0 +1,1078 @@
+{ 
+  "teeshirt": [
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%201/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%202/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"11£",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%203/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"12£",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%204/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"22£",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%205/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"30£",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%206/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"9£",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%207/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%208/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/tee-shirt/tee-shirt%209/tee1.jpg",
+    "caption": "Print Crewneck T-Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+],
+
+
+
+
+  "shirt": [
+   {
+   "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt1.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt2.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt3.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt4.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt5.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt6.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  { 
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt7.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt8.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/shirt/shirt9.jpg",
+    "caption": "Popover Shirt",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+]
+,
+
+
+
+  "hoodie": [
+   {
+   "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie1.jpg",
+    "caption": "Embroidered Logo Hoodie",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie2.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie3.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie4.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie5.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie6.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie7.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie8.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/hoodie/hoodie9.jpg",
+     "caption": "Embroidered Logo Hoodie",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   }
+]
+,
+
+
+
+  "blazer": [
+   {
+   "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer1.jpg",
+    "caption": "Plaid Blazer",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer2.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer3.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer4.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer5.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer6.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer7.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer8.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/blazer/blazer9.jpg",
+     "caption": "Plaid Blazer",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   }
+]
+,
+
+
+
+  "polo": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo1.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo2.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo3.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo4.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo5.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo6.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo7.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo8.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/polo/polo9.jpg",
+    "caption": "Must-Have Polo",
+    "price":"19 £",
+    "name":"Holy Summer"
+  }
+  
+]
+,
+
+
+
+  "sweater": [
+   {
+   "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater1.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater2.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater10.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater4.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater5.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater6.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater7.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater8.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Top/sweater/sweater9.jpg",
+    "caption": "Slim Crewneck Sweater",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+]
+,
+
+
+
+  "jeans": [
+   {
+   "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans1.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans2.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans3.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans4.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans5.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans6.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans7.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans8.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jeans/jeans9.jpg",
+     "caption": "Ultra High-Rise Utility Joggers",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   }
+]
+,
+
+
+
+  "jogger": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger1.jpg",
+    "caption": "Must-Have Relaxed Cinch-Hem Jogger Pants",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger2.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger3.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger4.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger5.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger6.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger7.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger8.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/jogger/jogger9.jpg",
+    "caption": "Ultra High-Rise Utility Joggers",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+]
+,
+
+
+
+  "chinos": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos1.jpg",
+    "caption": "Super Skinny Chino Pantsr",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos2.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos3.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos4.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos5.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos6.webp",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos7.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos8.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   },
+   {
+     "url": "http://127.0.0.1:5500/githubweb/img/Mid/chinos/chinos9.jpg",
+     "caption": "Super Skinny Chino Pants",
+     "price":"25 £",
+     "name":"Online Exclusive"
+   }
+]
+,
+
+
+
+  "short": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short1.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short2.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9r",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short3.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short4.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short5.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short6.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short7.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short8.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Mid/short/short9.jpg",
+    "caption": "Advanced Stretch Skinny Denim Short 9",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+
+],
+
+
+
+"trouser": [
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser1.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser2.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser3jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser4.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser5.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser6.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser7.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser8.jpg",
+  "caption": "Taper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Mid/trouser/trouser9.jpg",
+  "caption": "STaper Jogger Pants",
+  "price":"25 £",
+  "name":"Online Exclusive"
+}
+
+]
+,
+
+
+
+  "boots": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots1.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots2.jpg",
+    "caption": "6 PREMIUM - Winter bootsr",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots3.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots4.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots5.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots6.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots7.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots8.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/boots/boots9.jpg",
+    "caption": "6 PREMIUM - Winter boots",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+
+]
+,
+
+
+
+  "trainers": [
+   {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers1.jpg",
+    "caption": "Trainers - Black",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers2.jpg",
+    "caption": "Trainers - Blue/Orange",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers3.jpg",
+    "caption": "Trainers - Black/Red",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers4.jpg",
+    "caption": "Trainers - Orange/White",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers5.jpg",
+    "caption": "Trainers - White",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers6.jpg",
+    "caption": "Trainers - Blue/White",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers7.jpg",
+    "caption": "Trainers - Black/Red/White",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers8.jpg",
+    "caption": "Trainers - Red",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  },
+  {
+    "url": "http://127.0.0.1:5500/githubweb/img/Bot/trainers/trainers9.jpg",
+    "caption": "Trainers - Turtledove",
+    "price":"25 £",
+    "name":"Online Exclusive"
+  }
+],
+
+
+
+"sandals": [
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals1.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals2.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals3.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals4.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals5.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals6.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals7.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals8.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sandals/sandals9.jpg",
+  "caption": "DUMMY - Walking sandals",
+  "price":"25 £",
+  "name":"Online Exclusive"
+}
+
+],
+
+
+
+"slide": [
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide1.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide2.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide3.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide4.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide5.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide6.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide7.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide8.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/slide/slide9.jpg",
+  "caption": "Pool Slide",
+  "price":"25 £",
+  "name":"Online Exclusive"
+}
+],
+
+
+
+"sport": [
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport1.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport2.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport3.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport4.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport5.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport6.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport7.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport8.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sport/sport9.jpg",
+  "caption": "Neutral running",
+  "price":"25 £",
+  "name":"Online Exclusive"
+}
+
+],
+
+
+
+"formal": [
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal1.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal2.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal3.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal4.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal5.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal6.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal7.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal8.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+},
+{
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/formal/formal9.jpg",
+  "caption": "Smart lace-ups",
+  "price":"25 £",
+  "name":"Online Exclusive"
+}
+],
+
+"sock": [
+  {
+   "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock1.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock2.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock3.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock4.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock5.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock6.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock7.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock8.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ },
+ {
+  "url": "http://127.0.0.1:5500/githubweb/img/Bot/sock/sock9.jpg",
+   "caption": "STRIP SOCK",
+   "price":"25 £",
+   "name":"Online Exclusive"
+ }
+ ]
+
+}
