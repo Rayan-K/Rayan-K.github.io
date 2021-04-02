@@ -11,7 +11,7 @@
     
     // For a recap on using Fetch, please see my fetch demo:
     // https://codepen.io/pbutcher/pen/wvaeQvZ
-    fetch('http://127.0.0.1:5500//js/data.json')
+    fetch('http://127.0.0.1:5500/js/data.json')
     
     // Do something with the response...
     .then(function(res) {
