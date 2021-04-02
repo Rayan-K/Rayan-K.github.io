@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // For a recap on using Fetch, please see my fetch demo:
     // https://codepen.io/pbutcher/pen/wvaeQvZ
-    fetch('http://127.0.0.1:5500/FinalTask/js/data2.json')
+    fetch('http://127.0.0.1:5500/js/data2.json')
 
     // Do something with the response...
     .then(function(res) {
